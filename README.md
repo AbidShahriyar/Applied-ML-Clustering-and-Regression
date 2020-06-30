@@ -1,0 +1,2 @@
+# Clustering-with-DBSCAN-Polynomial-Regression
+It contains two datasets - one for clustering &amp; the other for regression, two notebooks - one for clustering and the other for regression. For clustering Density Based Spatial Clustering of Applications with Noise (DBSCAN) was applied and an f1 score of 0.97 was attained. For the regression problem K-Fold Cross Validation was implemented for determining the best degree polynomial fit. An RMSE of 0.85 was reached with 10 degree polynomial for regression.
